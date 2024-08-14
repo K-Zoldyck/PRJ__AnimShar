@@ -26,11 +26,27 @@
 			<img src="" alt="filter icon" id="change-gener-ic"/>
 		</nav>
     </header>
-	
+
     <main class="t-main">
 		<component :is="current_screen"/>
 	</main>
 </template>
 
 <style scoped>
+	.head-menu-box {
+		display: flex;
+		background-color: var(--bgcolor);
+		color: var(--fgcolor);
+		width: 100%;
+		height: 55px;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.t-main {
+		display: block;
+		width: min(820px,95%);
+		background-color: #cecece;
+		margin: auto auto;
+	}
 </style>
