@@ -1,0 +1,20 @@
+
+[
+    {
+        "title": "Naruto classico",
+        "ranking": 9.0,
+        "cover": "narudo_class.jpg",
+        "links": ["https://animes/fire/naruto"],
+        "gender": ["shounen","ação","aventujra"],
+        "isDubled": true,
+        "isFinished": true,
+        "seasons": [
+            {
+                "ep_length": 0,
+                "ep_length": 0
+            }
+        ],
+        "ovass": 0,
+        "desc": "Naruto classic is the ninja word anime etc..",
+    }
+]
