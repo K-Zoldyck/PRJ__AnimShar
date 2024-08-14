@@ -19,7 +19,6 @@
         width: 100%;
         height: 90vh;
         overflow: auto;
-        border: 1px solid red;
         list-style: none;
     }
         .anime-item {
@@ -27,7 +26,6 @@
             display: block;
             width: 160px;
             height: 240px;
-            border: 1px solid #000;
             margin: 2%;
         }
 </style>
