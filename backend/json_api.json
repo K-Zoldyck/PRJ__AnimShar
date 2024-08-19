@@ -5,13 +5,15 @@
         "ranking": 9.0,
         "cover": "narudo_class.jpg",
         "links": ["https://animes/fire/naruto"],
-        "gender": ["shounen","ação","aventujra"],
+        "gender": ["shounen","ação","aventura"],
         "isDubled": true,
         "isFinished": true,
         "seasons": [
             {
+                "title": "Naruto classico aa",
                 "ep_length": 0,
-                "ep_length": 0
+                "isDubled": true,
+                "isFinished": true,
             }
         ],
         "ovass": 0,
